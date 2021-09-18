@@ -5,4 +5,4 @@
 ### 用法
 将ServerTimeInterceptor拦截器加入OkHttp中，当有网络请求产生后，调用TimeUtil.getCurrentTimeMillis()即可获取时间。
 ### 原理
-https://www.jianshu.com/writer#/notebooks/17583395/notes/92920314
+https://www.jianshu.com/p/6292735f0538
